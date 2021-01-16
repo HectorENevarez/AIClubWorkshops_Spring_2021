@@ -1,5 +1,6 @@
 theme: minima
 
-minima:
-  header_pages:
-    - test.md
+
+header_pages:
+  - test.md
+  - index.md
